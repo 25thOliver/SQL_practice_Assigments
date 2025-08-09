@@ -28,27 +28,27 @@ We will create three tables:
 
 ## Insert Sample Data
 - Insert customer records
-![Inserted customers records](/images/insert_customers.png)
+![Inserted customers records](images/insert_customers.png)
 
 - Insert product records
-![Inserted products records](/images/insert_products.png)
+![Inserted products records](images/insert_products.png)
 
 Insert sales record
-![Inserted sales records](/images/insert_sales.png)
+![Inserted sales records](images/insert_sales.png)
 
 ## Run Queries and View Results
 
 1. Who bought what?
-![Which customers have made purchases, and what products did they buy?](/images/q1.png)
+![Which customers have made purchases, and what products did they buy?](images/q1.png)
 
 2. How much did each customer spend?
-![What is the total sales amount per customer?](/images/q2.png)
+![What is the total sales amount per customer?](images/q2.png)
 
 3. Which products generate the most revenue?
-![Which product generated the highest total sales?](/images/q3.png)
+![Which product generated the highest total sales?](images/q3.png)
 
 4. Who hasn’t purchased anything yet?
-![Are there any customers who haven't bought any products?](/images/q4.png)
+![Are there any customers who haven't bought any products?](images/q4.png)
 
 Entities:
 
