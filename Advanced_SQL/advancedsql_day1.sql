@@ -109,6 +109,9 @@ where total_spent < 500;
 
 select * from least_spenders;
 
+       
+    
+    
 
 
 
